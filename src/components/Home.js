@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Text, View, StatusBar } from 'react-native'
+import { Text, View } from 'react-native'
 import DayViewContainer from '../containers/DayViewContrainer'
 
 class Home extends Component {

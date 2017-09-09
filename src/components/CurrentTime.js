@@ -1,12 +1,5 @@
 import React, { Component } from 'react'
-import {
-  Text,
-  View,
-  ScrollView,
-  StyleSheet,
-  TouchableOpacity,
-  ActivityIndicator
-} from 'react-native'
+import { View, StyleSheet } from 'react-native'
 
 class CurrentTime extends Component {
   render() {
