@@ -5,7 +5,7 @@ class TimeSlots extends React.Component {
   render() {
     const slots = [];
 
-    for (let i = 0; i <= 24; i++) {
+    for (let i = 0; i < 24; i++) {
       slots.push((
         <View
           key={i}
